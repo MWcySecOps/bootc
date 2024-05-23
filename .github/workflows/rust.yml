@@ -1,4 +1,4 @@
-name: Rust
+_merge_path_ubuntu.//name: Rust
 
 on:
   push:
